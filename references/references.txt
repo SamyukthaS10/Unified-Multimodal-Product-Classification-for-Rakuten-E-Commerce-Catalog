@@ -1,0 +1,9 @@
+References
+
+● "Rakuten set to launch a wireless mobile network in Japan - Tamebay". tamebay.com. 17 May 2018. Archived from the original on 2020-06-16. Retrieved 2019-05-22.
+● "About Us". Rakuten Group, Inc. Retrieved 2023-02-04.
+● "Financial Data". Rakuten Group, Inc. Retrieved 2023-02-04.
+● Evelyn M. Rusli, "Pinterest on Wish List of Rakuten, Japan's Amazon", The New York Times, July 12, 2012.
+● Rakuten abandonne la marque PriceMinister", Le Monde, November 6, 2019
+● https://github.com/aniass/Product-Categorization-NLP/tree/master
+● https://github.com/Rohan-Thoma/Ecommerce-product-image-classification
