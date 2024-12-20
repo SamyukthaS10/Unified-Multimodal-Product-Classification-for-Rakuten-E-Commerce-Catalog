@@ -1,0 +1,9 @@
+
+The Text model requires preprocessing of the raw data which includes the transaltion of the textual data 
+which can be done using the script i.e Text_Transaltion.ipynb which can be found in or under src--->features
+
+For exploratory analysis of the image dataset, it requires the file which is an output of the script Image processing.ipynb
+which can be found in or under src--->feature
+
+The Image model does not require preprocessing and the necessary preprocessing steps are already included in the image model Vgg16_image_model.ipynb
+which can be found in or under src--->model
