@@ -1,0 +1,7 @@
+To get the source file, i.e., 
+		- Textual data (X_train_update.csv, Y_train_CVw08PX.csv, X_test_update.csv) 
+		- Image data (it should be created from image file)
+
+Please visit Challengedata platform (Link: https://challengedata.ens.fr/challenges/35)  
+
+The dataset is freely accessible after creating a user account. For any questions related to raw dataset, please refer the above link.
