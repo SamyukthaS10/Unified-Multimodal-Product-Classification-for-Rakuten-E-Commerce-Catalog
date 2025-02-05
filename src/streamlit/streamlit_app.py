@@ -799,6 +799,7 @@ elif menu == "Multimodal":
             else:
                 st.error("Please provide either text or an image input for classification.")
     
+
     
 # Sidebar footer with LinkedIn profiles
 st.sidebar.info("**Streamlit Application - Sep 2024 BootCamp Datascience (INT)**")
