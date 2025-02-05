@@ -802,18 +802,10 @@ elif menu == "Multimodal":
     
 # Sidebar footer with LinkedIn profiles
 st.sidebar.info("**Streamlit Application - Sep 2024 BootCamp Datascience (INT)**")
-st.sidebar.info("**Participants:**")
+#st.sidebar.info("**Participants:**")
 st.sidebar.markdown("""
-- **Balamurugan Thirukonda S. B.**  
-  <a href="https://www.linkedin.com/in/balamurugan-thirukonda-74196b79" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" style="vertical-align:middle;margin-right:5px;">LinkedIn
-  </a>  
 - **Samyuktha Soundararaj**  
   <a href="https://www.linkedin.com/in/samyukthasoundararaj" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" style="vertical-align:middle;margin-right:5px;">LinkedIn
   </a>  
-- **Syed Suhel**  
-  <a href="https://www.linkedin.com/in/suhel-syed-44a483177" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" style="vertical-align:middle;margin-right:5px;">LinkedIn
-  </a>
 """, unsafe_allow_html=True)
